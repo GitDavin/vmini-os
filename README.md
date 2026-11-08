@@ -28,4 +28,4 @@ A lightweight, Debian-based live ISO with a macOS-inspired desktop, built for th
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 (see `LICENSE`).
-Third-party components such as Chromium, Openbox, and Darling keep their own licenses.. Third-party components such as Chromium, Openbox, and Darling keep their own licenses.
+Third-party components such as Chromium, Openbox, and Darling keep their own licenses.
